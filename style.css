@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+#image {
+    height: 80%;
+    
+}
+nav{
+    background-color: #2e3a46;
+    height: 75px;
+}
+main{
+    background-color: #1e2d3b;
+}
+.riga{
+    column-gap: 20px;
+}
